@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Aloha to my Site',
-  tagline: 'Penguins are cool',
+  tagline: 'Penguins are cooli',
   url: 'https://github.com',
   baseUrl: '/cocobasics/',
   onBrokenLinks: 'throw',

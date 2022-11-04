@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcocobasics=self.webpackChunkcocobasics||[]).push([[4968],{9009:c=>{c.exports=JSON.parse('{"label":"facebook","permalink":"/cocobasics/blog/tags/facebook","allTagsPath":"/cocobasics/blog/tags","count":1}')}}]);

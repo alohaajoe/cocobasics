@@ -1,8 +1,8 @@
 ---
-sidebar_label: Software To Install For Code & Context
-sidebar_position: 2
+sidebar_label: 'Software to install'
+sidebar_position: 3
 ---
-
+# Software to install for Code & Context 
 Here is a list of different applications and software you need to install.
 See how far you get.
 
@@ -71,4 +71,3 @@ So it might be a good idea to stick to this order.
   * Windows 10/11: You _should_ be good to go. To make sure, enter the following command in a terminal (git bash or cmd): `ssh -V` 
     * If you see something like "OpenSSH_..." you are fine.
     * If you don't, you can try the steps described here: <https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse>
-

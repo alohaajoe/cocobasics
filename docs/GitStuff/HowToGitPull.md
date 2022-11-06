@@ -10,7 +10,7 @@ Was steht auf der anderen Seite der Tür, wenn auf dieser push steht? - Richtig,
 Und genau das machen wir jetzt auch. ;)
 
 
-![Screenshot git pull Mac Terminal](./images/Screenshots-GitPull/GitPull.png)
+![Screenshot git pull Mac Terminal](./img/Screenshots-GitPull/GitPull.png)
 
 1. Nachdem Du das Terminal (Mac) bzw. die Git Bash (Windows) geöffnet hast, navigierst Du in den Ordner, den Du updaten willst.
 2. **_Optional_**

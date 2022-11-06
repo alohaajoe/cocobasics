@@ -11,7 +11,7 @@ Und genau das machen wir jetzt auch. ;)
 
 ![Screenshot git pull Mac Terminal](./img/Screenshots-GitPull/GitPull.png)
 1. Nachdem Du das Terminal (Mac) bzw. die Git Bash (Windows) geöffnet hast, navigierst Du in den Ordner, den Du updaten willst.
-2. **_Optional_**
+2. **_Optional_** 
 `git status` _[(Was ist Git Status?)](GitStatus.md)_ zeigt uns **nicht** an, dass wir eine neuere Version haben könnten, da es nur **lokal** vergleicht.
 3. Bist du im Ordner deiner Wahl?
 Dann führe nun `git pull` aus.

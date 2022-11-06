@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# How To - git clone
+# How to - git clone
 
 Du hast ein Repository online, wahrscheinlich von deinem aktuellen Kurs.
 Dir wurde gesagt *"Cloned euch das mal"* und du fragst dich jetzt wie? 

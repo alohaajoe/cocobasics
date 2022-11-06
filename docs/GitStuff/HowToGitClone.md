@@ -60,7 +60,7 @@ Dann hast du es lokal auf deinem Gerät und kannst die Dateien, die bereits im R
 
 
 
-Im Ganzen sollte es in der GitBash bzw im Terminal etwa so ausgesehen haben:
+### Im Ganzen sollte es in der GitBash bzw. im Terminal etwa so ausgesehen haben:
 
 ![Verlauf auf der GitBash](./img/Screenshots-GitClone/GitClone3.jpg)
 

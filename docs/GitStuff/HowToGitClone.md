@@ -58,7 +58,7 @@ Dann hast du es lokal auf deinem Gerät und kannst die Dateien, die bereits im R
 
 8. **Wuhuuu! Fertig! :)**
 
----
+
 
 Im Ganzen sollte es in der GitBash bzw im Terminal etwa so ausgesehen haben:
 

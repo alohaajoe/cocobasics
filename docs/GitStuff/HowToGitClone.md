@@ -8,7 +8,7 @@ Du hast ein Repository online, wahrscheinlich von deinem aktuellen Kurs.
 Dir wurde gesagt *"Cloned euch das mal"* und du fragst dich jetzt wie? 
 Ja dann...
 
----
+
 
 ## Was brauchst du?
 
@@ -18,14 +18,14 @@ _[SSH was?](ssh-keys-gitlab-howto.md)_
 Als Windows-User ist es am einfachsten die GitBash zu verwenden.
 Als Mac-User nutzt du einfach das Terminal.
 
----
+
 
 ## Was macht git clone eigentlich?
 
 Git Clone downloaded dir das Repository auf deinen PC / Laptop.
 Dann hast du es lokal auf deinem Gerät und kannst die Dateien, die bereits im Repository vorhanden sind bearbeiten, neue hinzufügen oder löschen.
 
----
+
 
 ## Ok und wie mache ich das jetzt?
 

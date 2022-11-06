@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Code & Context -- GitLab + SSH Keys Howto
+# GitLab + SSH Keys How to
 
 Some general info on GitLab and SSH
 -----------------------

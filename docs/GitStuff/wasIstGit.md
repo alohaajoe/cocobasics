@@ -28,7 +28,7 @@ Du kannst dann auch einsehen, wer was wann wie bearbeitet hat und hast somit ein
 
 ### Cool und wie ist das mit diesem GitLab?
 
-Am besten schaust Du Dir das hier mal an. :)
+Am besten schaust Du Dir das [hier](ssh-keys-gitlab-howto.md) mal an. :)
 
 
 

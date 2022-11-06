@@ -31,12 +31,14 @@ Dann hast du es lokal auf deinem Gerät und kannst die Dateien, die bereits im R
 
 1. Geh auf die GitLab Seite von dem Repository, welches du clonen möchtest.
    Das sieht dann ungefähr so aus:
+
    ![Screenshot von dem Repository auf GitLab](./img/Screenshots-GitClone/GitClone1.jpg)
 
 2. Rechts siehst du schon den blauen Button der mit der Inschrift *"Clone"*.
    Da klickst du drauf.
 
 3. nun öffnet sich ein Untermenü: 
+   
    ![Clone Button Untermenü](./img/Screenshots-GitClone/GitClone2.jpg)
 
    Da du einen SSH-Key hast, ist die Option *"Clone with SSH"* die Richtige.
